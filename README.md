@@ -1,10 +1,10 @@
-# 💰 Revenue-Driven Budget Analysis
+# Revenue-Driven Budget Analysis
 
 This project analyzes user behavior and revenue data for a telecom provider offering two prepaid plans: **Surf** and **Ultimate**. The objective is to help the business understand which plan generates more monthly revenue and guide strategic budgeting decisions.
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 - [Introduction](#introduction)
 - [Data Sources](#data-sources)
 - [Project Goals](#project-goals)
