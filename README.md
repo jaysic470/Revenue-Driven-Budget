@@ -90,8 +90,4 @@ The project uses several datasets, including:
 ## Project Files
 
 - `Revenue-Driven-Budget.ipynb`: Full project notebook
-- `megaline_calls.csv`: Dataset containing user call records
-- `megaline_internet.csv`: Dataset containing user internet records
-- `megaline_messages.csv`: Dataset containing user text message records
-- `megaline_plans.csv`: Dataset containing information on the prepaid plans
-- `megaline_users.csv`: Dataset containing user demographic and plan information
+- `data/`: Folder containing all of the datasets
