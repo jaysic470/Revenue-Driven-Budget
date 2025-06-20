@@ -1,4 +1,4 @@
-# Revenue-Driven Budget Analysis
+# Revenue-Driven Budget Analysis - [Notebook](https://github.com/jaysic470/Revenue-Driven-Budget/blob/main/Revenue-Driven-Budget.ipynb)
 
 This project analyzes user behavior and revenue data for a telecom provider offering two prepaid plans: **Surf** and **Ultimate**. The objective is to help the business understand which plan generates more monthly revenue and guide strategic budgeting decisions.
 
